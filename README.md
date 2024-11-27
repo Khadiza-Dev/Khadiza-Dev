@@ -17,6 +17,7 @@
 <h3 align='center'>💻 Prefered technologies and languages</h3><br/>
 <p align='center'>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+
  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src=" https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
@@ -27,9 +28,15 @@
   <img src=" https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
  </p>
-   
-   
-   
+-----
+   <h3>About me 👻:</h3>
+
+- 💻 Working on becoming a full-stack developer.
+- 💬 Ask me anything about my projects!
+- 📫 How to reach me:khadizatul202@gmail.com
+- 📹 My website: https://Khadiza-Dev/
+- 💡 I'm really passionate about all sorts of technology, trying to learn and try something new everyday.
+---  
   
 # 📊 GitHub Stats:
 
