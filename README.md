@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
  </p> 
   
---
+## 🌐 Socials:
    <h3>About me 👻:</h3>
 
 - 💻 Working on becoming a full-stack developer.
@@ -37,8 +37,7 @@
 - 📫 How to reach me:khadizatul202@gmail.com
 - 📹 My website: https://Khadiza-Dev/
 - 💡 I'm really passionate about all sorts of technology, trying to learn and try something new everyday. 
-
-## 🌐 Socials:
+--
 <h2>GitHub Stats</h2>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Khadiza-Dev&theme=vue&hide_border=false)<br/>
