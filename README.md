@@ -1,8 +1,11 @@
 <h1 align='center'>
   Hello there 👋 I'm Khadiza 👨‍💻
 </h1>
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+<h3 align='center'>
+  Front-end Web developer from Bangladesh. 
+</h3>
+
 
 
 ## 🌐 Socials:
@@ -17,5 +20,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Khadiza-Dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
