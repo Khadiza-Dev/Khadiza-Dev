@@ -40,8 +40,8 @@
 
 ---
 <p align='center'>
-<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Khadiza-Dev&theme=vue&hide_border=false" width="350"></a><br>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khadiza-Dev&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="350"></a>
+<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Khadiza-Dev&theme=vue&hide_border=false" width="450"></a><br>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khadiza-Dev&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="300"></a>
 </p>
 
 ---
