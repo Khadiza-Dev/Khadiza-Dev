@@ -9,8 +9,7 @@
 <br>
 
 <p align='center'>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Khadiza-Dev&theme=vue&hide_border=false&include_all_commits=true&count_private=true" width="350"></a><br>
-<a href="#"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61569673618882"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Khadiza-Dev&theme=vue&hide_border=false&include_all_commits=true&count_private=true" width="350"></a>
 </p>
  
 
@@ -42,7 +41,8 @@
 ---
 <p align='center'>
 <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Khadiza-Dev&theme=vue&hide_border=false" width="350"></a><br>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khadiza-Dev&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="250"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khadiza-Dev&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="250"></a><br>
+<a href="#"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61569673618882"></a>
 </p>
 
 ---
