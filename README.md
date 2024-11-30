@@ -47,7 +47,7 @@
 ---
 <p align='center'>
 <img src="https://visitcount.itsvg.in/api?id=Khadiza-Dev&icon=0&color=0)](https://visitcount.itsvg.in">
-<a href="#"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61569673618882"></a>
+<a href="https://www.facebook.com/profile.php?id=61569673618882"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]"></a>
 </p>
 
 
